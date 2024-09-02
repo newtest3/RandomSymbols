@@ -1,0 +1,17 @@
+.wrapper {
+    border: 2px solid grey;
+    border-radius: 3px;
+    padding: 10px;
+   
+}
+.instruction {
+    font-style: italic;
+    font-weight: 600;
+}
+.maxSymbols {
+    width: 70px;
+    margin: 10px 0 20px 20px;
+}
+.showButton{
+    margin: 0 20px 0 0;
+}
